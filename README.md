@@ -20,6 +20,7 @@ Book GraphQL is a book management app using GraphQL and React. And, there will b
 - React Hook Form
 
 ## Steps:
+- npm install --global yarn
 - yarn add react-scripts
 - yarn upgrade eslint-plugin-react --latest
 - yarn run dev
